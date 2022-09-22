@@ -1,4 +1,3 @@
-# PSO Algo Practice
-It is just a Starting Point for me on Meta Heuristic Algos.
-Shall be working on feeding of odd number of Swarms as input as well and modify this one accordingly.
-Need help on Graphical plots of the same.
+# Nature Inspired Optimization Algorithm Practice
+I have just started with python implimentation of such wonderful algorithms. I'm trying to make the implimentation simple to understand and execute. These NIOA are a brillinat tools at hand that can subsequently guide AI optimizations.
+Further, I'm working on plot analyzations of the same. Any help on Graphical plots is welcome
